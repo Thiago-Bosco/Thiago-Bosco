@@ -1,4 +1,4 @@
-# Olá, eu sou Striker765! 👋
+# Olá, eu sou Thiago! 👋
 
 Sou um Back-end Developer apaixonado por desenvolvimento de software, especialmente em Tecnologia da Informação e Comunicação (TIC), com vasta experiência em Desenvolvimento de Aplicações para Web.
 
