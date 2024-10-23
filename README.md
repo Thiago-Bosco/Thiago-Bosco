@@ -56,7 +56,7 @@ Sou um Back-end Developer apaixonado por desenvolvimento de software, especialme
 
 ## 📫 Entre em Contato
 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/thiago-bosco-7a61121b2/?_l=pt_BR
 - Email: Thiago-carvalho789@outlook.com
 
 ---
