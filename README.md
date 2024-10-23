@@ -56,8 +56,8 @@ Sou um Back-end Developer apaixonado por desenvolvimento de software, especialme
 
 ## 📫 Entre em Contato
 
-- LinkedIn: [Seu perfil do LinkedIn](https://www.linkedin.com/)
-- Email: seuemail@email.com
+- LinkedIn: 
+- Email: 
 
 ---
 
