@@ -18,8 +18,8 @@ Sou um Back-end Developer apaixonado por desenvolvimento de software, especialme
 
 ## 🚀 Projetos Recentes
 
-- [Projeto Legal 1](https://github.com/striker765/projeto-legal-1): Descrição curta do projeto e sua relevância.
-- [Projeto Legal 2](https://github.com/striker765/projeto-legal-2): Descrição curta do projeto e sua relevância.
+- [Projeto ](https://github.com/striker765/projeto-legal-1): Descrição curta do projeto e sua relevância.
+- [Projeto ](https://github.com/striker765/projeto-legal-2): Descrição curta do projeto e sua relevância.
 
 ## 🌱 Contribuições em Open Source
 
