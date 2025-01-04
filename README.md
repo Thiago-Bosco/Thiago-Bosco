@@ -15,10 +15,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 
-## 🌱 Contribuições em Open Source
 
-- Contribuição 1: Descrição da contribuição e link para o repositório ou projeto.
-- Contribuição 2: Descrição da contribuição e link para o repositório ou projeto.
 
 ## 📊 Estatísticas do GitHub
 
