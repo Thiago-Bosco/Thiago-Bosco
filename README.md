@@ -14,10 +14,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 🚀 Projetos Recentes
-
-- [Projeto ](https://github.com/striker765/projeto-legal-1): Descrição curta do projeto e sua relevância.
-- [Projeto ](https://github.com/striker765/projeto-legal-2): Descrição curta do projeto e sua relevância.
 
 ## 🌱 Contribuições em Open Source
 
