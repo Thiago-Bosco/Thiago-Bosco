@@ -37,12 +37,8 @@
 ![Oracle Certified Professional](https://img.shields.io/badge/Oracle-Certified_Professional-orange?style=flat-square&logo=oracle&logoColor=white)
 ![Check Point Certified Security Administrator](https://img.shields.io/badge/Check_Point-Certified_Security_Administrator-blueviolet?style=flat-square&logo=check-point&logoColor=white)
 
-## 📜 Experiência Profissional
+ETC ...
 
-### (https://www.linkedin.com/)
-
-- **Cargo:**  Back-end
-- **Período:** Janeiro de 20XX - Presente   
 
 
 ## 📫 Entre em Contato
