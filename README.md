@@ -39,11 +39,11 @@
 
 ## 📜 Experiência Profissional
 
-### [Nome da Empresa](https://www.linkedin.com/)
+### (https://www.linkedin.com/)
 
-- **Cargo:** Desenvolvedor Back-end
+- **Cargo:**  Back-end
 - **Período:** Janeiro de 20XX - Presente   
-- **Descrição:** Breve descrição das responsabilidades e realizações.
+
 
 ## 📫 Entre em Contato
 
