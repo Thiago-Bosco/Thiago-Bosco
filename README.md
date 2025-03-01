@@ -19,8 +19,8 @@
 
 ## 📊 Estatísticas do GitHub
 
-[![Estatísticas do GitHub de Striker765](https://github-readme-stats.vercel.app/api?username=Thiago-Bosco&show_icons=true&theme=algolia)](https://github.com/striker765)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Bosco&layout=compact&theme=algolia)](https://github.com/striker765)
+[![Estatísticas do GitHub de Striker765](https://github-readme-stats.vercel.app/api?username=Thiago-Bosco&show_icons=true&theme=algolia)](https://github.com/Thiago-Bosco)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Bosco&layout=compact&theme=algolia)](https://github.com/Thiago-Bosco)
 
 ## 🔍 Habilidades
 
