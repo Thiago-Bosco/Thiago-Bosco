@@ -69,7 +69,7 @@
   <img alt="Python First App" src="https://img.shields.io/badge/Alura-Python_First_Application-4A90E2?style=flat-square&logo=alura&logoColor=white" />
 </div>
 
-![image](https://github.com/EduardoPires/eduardopires/assets/5068797/a24a42fc-96cf-443a-b107-467faa8048e4)
+4)
 
 ## 📫 Get in Touch
 
@@ -77,3 +77,5 @@
 - Email: [Thiago-carvalho789@outlook.com](mailto:Thiago-carvalho789@outlook.com)
 
 ⭐️ Feel free to star my repositories if you like my projects!
+
+![image](https://github.com/EduardoPires/eduardopires/assets/5068797/a24a42fc-96cf-443a-b107-467faa8048e
