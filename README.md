@@ -1,3 +1,4 @@
+![image](https://github.com/EduardoPires/eduardopires/assets/5068797/a24a42fc-96cf-443a-b107-467faa8048e4)
 <div align="center">
   <h1>Hello, I'm Thiago | Back-end Developer! 👋</h1>
 </div>
