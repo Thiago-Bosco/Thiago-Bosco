@@ -1,10 +1,7 @@
 <div align="center">
-  <h1>Hello, I'm Thiago | Back-end Developer! 👋 </h1>
+  <h1>Hello, I'm Thiago | Back-end Developer! 👋</h1>
 </div>
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
-
-
-
 
 ![image](https://github.com/EduardoPires/eduardopires/assets/5068797/a24a42fc-96cf-443a-b107-467faa8048e4)
 
@@ -56,7 +53,7 @@
 
 ### 🏅 **Rocketseat Certifications**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img alt="Fundamentos Python" src="https://img.shields.io/badge/Rocketseat-Python_Fundamentals-yellow?style=flat-square&logo=rocketseat&logoColor=white" />
+  <img alt="Python Fundamentals" src="https://img.shields.io/badge/Rocketseat-Python_Fundamentals-yellow?style=flat-square&logo=rocketseat&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Rocketseat-Java-FFCC00?style=flat-square&logo=rocketseat&logoColor=white" />
   <img alt="Backend Java" src="https://img.shields.io/badge/Rocketseat-Java_Backend-FFCC00?style=flat-square&logo=rocketseat&logoColor=white" />
 </div>
