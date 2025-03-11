@@ -78,5 +78,4 @@
 - Email: [Thiago-carvalho789@outlook.com](mailto:Thiago-carvalho789@outlook.com)
 
 ⭐️ Feel free to star my repositories if you like my projects!
-
-![image](https://github.com/EduardoPires/eduardopires/assets/5068797/a24a42fc-96cf-443a-b107-467faa8048e
+![image](https://github.com/EduardoPires/eduardopires/assets/5068797/a24a42fc-96cf-443a-b107-467faa8048e4)
