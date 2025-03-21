@@ -9,7 +9,8 @@
 
 <br />
 <div>
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="Thiago-bosco's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Thiago-bosco?cardType=github&theme=github-dark&preferLogin=false" />  </a>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false"> <img  alt="Thiago-bosco's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Thiago-bosco?cardType=github&theme=github-dark&preferLogin=false" /> 
+    </a>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Bosco&layout=compact&title_color=55A48C&text_color=fff&bg_color=0d1117&border_color=fff0" />  
 
 </div>
