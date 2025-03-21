@@ -6,10 +6,12 @@
 
 ![image](https://github.com/EduardoPires/eduardopires/assets/5068797/a24a42fc-96cf-443a-b107-467faa8048e4)
 
+
 <br />
-<div>    
-  <img width="49%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/Thiago-Bosco?cardType=level&theme=calm&preferLogin=false&Background=FFFFFF00&Text=14B2EE&Title=55A48C&Border=DDDDDD00&Ring=55A48C" /> 
+<div>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="Thiago-bosco's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Thiago-bosco?cardType=github&theme=github-dark&preferLogin=false" />  </a>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Bosco&layout=compact&title_color=55A48C&text_color=fff&bg_color=0d1117&border_color=fff0" />  
+
 </div>
 
 ![image](https://github.com/EduardoPires/eduardopires/assets/5068797/a24a42fc-96cf-443a-b107-467faa8048e4)
