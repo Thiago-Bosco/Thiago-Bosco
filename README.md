@@ -1,10 +1,10 @@
 <div align="center">
 
 # Thiago Bosco
-### Infrastructure & Backend Engineer · Monitoring Systems · Go · Security
+### Software Engineer · Infrastructure & Automation · Go · Python · Security
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago_Bosco-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-bosco-7a61121b2/)
-[![Email](https://img.shields.io/badge/Email-Thiago--carvalho789@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:Thiago-carvalho789@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago_Bosco-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-bosco-339030367/)
+[![Email](https://img.shields.io/badge/Email-thiago--carvalho789@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:thiago-carvalho789@outlook.com)
 
 </div>
 
@@ -12,9 +12,9 @@
 
 ## About
 
-Backend and infrastructure engineer focused on **operational observability**, **monitoring automation**, and **security tooling**. I build systems that keep infrastructure visible, reliable, and actionable — from custom alerting pipelines to automated operations workflows.
+Software engineer with hands-on experience in **infrastructure automation**, **observability platforms**, and **backend development**. I work across the full stack of enterprise IT operations — from building Go-based monitoring systems to integrating PAM solutions, managing Active Directory environments, and automating workflows for financial institutions.
 
-My work sits at the intersection of **infrastructure operations (BOC/NOC)** and **software engineering**: automating what teams do manually and instrumenting what teams can't see.
+Currently at **AltSec**, acting as infrastructure analyst and engineer — developing internal tooling, monitoring pipelines, and automation solutions for clients including BMP, BACEN, BEETELER, OURIVEST, and OURINBANK, in partnership with IBM (TWS/Workload Scheduler).
 
 ---
 
@@ -22,22 +22,42 @@ My work sits at the intersection of **infrastructure operations (BOC/NOC)** and 
 
 | Layer | Technologies |
 |---|---|
-| **Languages** | Go · Python · JavaScript (Node.js) · PowerShell · Bash |
-| **Backend** | Go (net/http) · Node.js · Express.js |
+| **Languages** | Go · Python · JavaScript (Node.js) · C# · PowerShell · Bash |
+| **Backend** | Go (REST APIs, JSON-RPC) · Django · Node.js · Express.js · Gin |
 | **Databases** | PostgreSQL · MySQL · MongoDB |
-| **Infrastructure** | Hyper-V · Docker · OCI · Linux · Windows Server |
-| **Monitoring** | Zabbix (API, triggers, dashboards) · Grafana · Veeam |
+| **Infrastructure** | VMware · Hyper-V · Citrix · Docker · Linux · Windows Server · Active Directory |
+| **Monitoring** | Zabbix (API, triggers, dashboards) · Grafana · Prometheus · Veeam Backup & Replication |
+| **Security** | PAM (Privileged Access Management) · Check Point (NGFW, CloudGuard, Harmony SASE, Quantum IoT) |
+| **Enterprise** | IBM TWS (Workload Scheduler) · CI/CD · Nginx · Gunicorn |
 | **Tooling** | Git · PM2 · systemd · GLPI · Postman |
 
 ---
 
 ## Certifications
 
-**Check Point** — `Harmony SaaS Tech Specialist` · `MSSP Certification` · `Quantum IoT Tech Specialist` · `CloudGuard Tech Specialist`
+**Check Point Software**
+`CloudGuard Pre-Sales Technical Specialist` · `Harmony SASE Technical Specialist` · `Harmony SaaS Technical Specialist` · `Quantum IoT Technical Specialist` · `MSSP Certification` · `Welcome Partners (CPSC)`
 
-**Oracle** — `HeatWave Explorer`  · **Fortinet** — `NSE 2`
+**Fortinet**
+`Introduction to the Threat Landscape 2.0`
 
-**Dev** — `Rocketseat: Python · Java · Java Backend` · `Alura: Django · Python OOP · Git/GitHub · SQL`
+**Go**
+`Fundamentos em Go` · `Conceitos Avançados de Go` · `Integração com Bancos de Dados em Go` · `Criando uma API REST em Go` · `Go e Gin` · `Go: OOP` · `Go: Validações, Testes e HTML` · `Go: API Rest` · `Go: Aplicação Web` · `Formação Linguagem Go` — *Rocketseat · Alura*
+
+**Python & Django**
+`Python for Official Statistics (EU)` · `Minicurso de Python` · `Formação Django` · `Django: CRUD e persistência no S3` · `Scripting e Pipelines com Jenkins` · `Python OOP` · `Python: análise de dados com SQL` — *Rocketseat · Alura · European Union*
+
+**Monitoring**
+`Prometheus, Grafana e Alertmanager` — *Alura*
+
+**Other**
+`Minicurso de Java` · `Git e GitHub` — *Rocketseat · Alura*
+
+---
+
+## Education
+
+**Engenharia de Software** — Anhanguera University *(em andamento)*
 
 ---
 
