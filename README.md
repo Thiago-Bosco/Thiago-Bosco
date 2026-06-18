@@ -14,7 +14,7 @@
 
 Software engineer with hands-on experience in **infrastructure automation**, **observability platforms**, and **backend development**. I work across the full stack of enterprise IT operations — from building Go-based monitoring systems to integrating PAM solutions, managing Active Directory environments, and automating workflows for financial institutions.
 
-Currently at **AltSec**, acting as infrastructure analyst and engineer — developing internal tooling, monitoring pipelines, and automation solutions for clients including BMP, BACEN, BEETELER, OURIVEST, and OURINBANK, in partnership with IBM (TWS/Workload Scheduler).
+Currently at **AltSec**, working as infrastructure analyst and engineer — building internal tooling, monitoring pipelines, and automation solutions for enterprise clients in the financial sector, in partnership with strategic technology vendors.
 
 ---
 
@@ -27,7 +27,7 @@ Currently at **AltSec**, acting as infrastructure analyst and engineer — devel
 | **Databases** | PostgreSQL · MySQL · MongoDB |
 | **Infrastructure** | VMware · Hyper-V · Citrix · Docker · Linux · Windows Server · Active Directory |
 | **Monitoring** | Zabbix (API, triggers, dashboards) · Grafana · Prometheus · Veeam Backup & Replication |
-| **Security** | PAM (Privileged Access Management) · Check Point (NGFW, CloudGuard, Harmony SASE, Quantum IoT) |
+| **Security** | Check Point (NGFW, CloudGuard, Harmony SASE, Quantum IoT) |
 | **Enterprise** | IBM TWS (Workload Scheduler) · CI/CD · Nginx · Gunicorn |
 | **Tooling** | Git · PM2 · systemd · GLPI · Postman |
 
