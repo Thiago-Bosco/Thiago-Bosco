@@ -12,8 +12,7 @@
 
 ## About
 
-Software engineer with hands-on experience in **infrastructure automation**, **observability platforms**, and **backend development**. I work across the full stack of enterprise IT operations — from building Go-based monitoring systems to integrating PAM solutions, managing Active Directory environments, and automating workflows for financial institutions.
-
+Software engineer with hands-on experience in **infrastructure automation**, **observability platforms**, and **backend development**. I work across the full stack of enterprise IT operations 
 
 ---
 
